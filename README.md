@@ -22,8 +22,8 @@ This repository curates open-source AI/ML models for medical applications, provi
 | Model Name          | Description                                                         | Link                                               | Use Cases                        |
 | ------------------- | ------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------- |
 | Vision Transformer             | A deep learning model for classification & segmentation on imaging data .    | [Vision Transformer](https://github.com/google-research/vision_transformer) | Radiology, Pathology  |
-| DeepMind’s RetinaNet| A deep learning model for detecting diabetic retinopathy from retinal images. | [DeepMind’s RetinaNet](https://github.com/deepmind/deepmind-research/tree/master/retinopathy) | Diabetic retinopathy detection   |
-| CheXNet             | A deep learning model for detecting pneumonia from chest X-rays.    | [CheXNet](https://github.com/stanfordmlgroup/CheXNet) | Pneumonia detection, radiology   |
+| DeepMind’s RetinaNet| A deep learning model for detecting diabetic retinopathy from retinal images. | [DeepMind’s RetinaNet](https://github.com/deepmind/deepmind-research) | Diabetic retinopathy detection   |
+| CheXbert             | Automatic Labelers and Expert Annotations.    | [CheXbert](https://github.com/stanfordmlgroup/CheXbert) |  radiology   |
 | UNet                | A convolutional neural network for biomedical image segmentation.   | [UNet](https://github.com/zhixuhao/unet)           | Biomedical image segmentation    |
 | nnU-Net             | A self-configuring method for biomedical image segmentation.        | [nnU-Net](https://github.com/MIC-DKFZ/nnUNet)      | Biomedical image segmentation    |
 
