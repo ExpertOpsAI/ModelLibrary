@@ -36,4 +36,4 @@ This repository curates open-source AI/ML models for medical applications, provi
 | ---------- | ---------------------------------------------------- | -------------------------------------------------- |
 | COVID-Net  | A deep learning model for detecting COVID-19 from chest X-ray images. | [COVID-Net](https://github.com/lindawangg/COVID-Net) |
 
-
+Your contributions are invaluable, and together, we can build a healthier future through innovation and excellence in medical AI/ML!
