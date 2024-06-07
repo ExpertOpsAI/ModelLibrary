@@ -7,20 +7,23 @@ This repository curates open-source AI/ML models for medical applications, provi
 
 | Model Name     | Description                                                     | Link                                               | Use Cases                           |
 | -------------- | --------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------- |
+| ClinicalBERT | A Collection of Open-Source Pretrained Large Language Models for Medical Domains. | [ClinicalBERT](https://huggingface.co/medicalai/ClinicalBERT) | Medical question-answering (QA) tasks |
+| BioMistral-7B | A Collection of Open-Source Pretrained Large Language Models for Medical Domains. | [BioMistral](https://huggingface.co/BioMistral/BioMistral-7B) | Medical question-answering (QA) tasks |
+| BioGPT         | A generative pre-trained transformer model for biomedical text generation. | [BioGPT](https://github.com/microsoft/BioGPT) | Biomedical text generation, NLP     |
 | BioBERT        | A pre-trained biomedical language representation model.         | [BioBERT](https://github.com/dmis-lab/biobert)     | Biomedical text mining, NLP tasks   |
 | ClinicalBERT   | BERT model fine-tuned on clinical notes.                        | [ClinicalBERT](https://github.com/EmilyAlsentzer/clinicalBERT) | Clinical text analysis, EHR data    |
 | SciBERT        | A BERT-based model trained on scientific text.                  | [SciBERT](https://github.com/allenai/scibert)      | Scientific literature analysis      |
 | BlueBERT       | BERT-based model trained on PubMed abstracts and MIMIC-III clinical notes. | [BlueBERT](https://github.com/ncbi-nlp/bluebert) | Biomedical research, clinical notes |
-| PubMedBERT     | A domain-specific language model for biomedical text mining.    | [PubMedBERT](https://github.com/guyszhou/biolm)    | PubMed literature analysis          |
 | BioMegatron    | A large-scale biomedical language model based on Megatron-LM.   | [BioMegatron](https://github.com/NVIDIA/NeMo/tree/main/examples/nlp/bio_megatron) | Biomedical text generation, NLP     |
-| BioGPT         | A generative pre-trained transformer model for biomedical text generation. | [BioGPT](https://github.com/microsoft/BioGPT) | Biomedical text generation, NLP     |
+
 
 ### Vision Models
 
 | Model Name          | Description                                                         | Link                                               | Use Cases                        |
 | ------------------- | ------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------- |
-| CheXNet             | A deep learning model for detecting pneumonia from chest X-rays.    | [CheXNet](https://github.com/stanfordmlgroup/CheXNet) | Pneumonia detection, radiology   |
-| DeepMind’s RetinaNet| A deep learning model for detecting diabetic retinopathy from retinal images. | [DeepMind’s RetinaNet](https://github.com/deepmind/deepmind-research/tree/master/retinopathy) | Diabetic retinopathy detection   |
+| Vision Transformer             | A deep learning model for classification & segmentation on imaging data .    | [Vision Transformer](https://github.com/google-research/vision_transformer) | Radiology, Pathology  |
+| DeepMind’s RetinaNet| A deep learning model for detecting diabetic retinopathy from retinal images. | [DeepMind’s RetinaNet](https://github.com/deepmind/deepmind-research) | Diabetic retinopathy detection   |
+| CheXbert             | Automatic Labelers and Expert Annotations.    | [CheXbert](https://github.com/stanfordmlgroup/CheXbert) |  radiology   |
 | UNet                | A convolutional neural network for biomedical image segmentation.   | [UNet](https://github.com/zhixuhao/unet)           | Biomedical image segmentation    |
 | nnU-Net             | A self-configuring method for biomedical image segmentation.        | [nnU-Net](https://github.com/MIC-DKFZ/nnUNet)      | Biomedical image segmentation    |
 
