@@ -63,6 +63,10 @@ This repository curates AI/ML models (open-source & closed-source) for medical a
 | AI Pathway Companion    | Clinical decision support system for personalized cancer care    | [Siemens AI Pathway Companion](https://www.siemens-healthineers.com/digital-health-solutions/ai-pathway-companion) | Personalized cancer treatment planning             |
 | Butterfly iQ+           | Handheld ultrasound device with integrated AI for diagnostics    | [Butterfly iQ+](https://www.butterflynetwork.com/)                                         | Point-of-care diagnostics, ultrasound imaging       |
 
+## References: 
+1. [Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
+2. [Open Medical-LLM Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)
+
 ## Getting Help
 If you need help or have any questions, view [contributing guide](CONTRIBUTING.md) or feel free to reach out by opening an issue or joining our [Discord Community](https://discord.gg/KXG8V5ZSpy).
 
