@@ -15,7 +15,6 @@ This repository curates AI/ML models (open-source & closed-source) for medical a
 | ClinicalBERT   | BERT model fine-tuned on clinical notes.                        | [ClinicalBERT](https://github.com/EmilyAlsentzer/clinicalBERT) | Clinical text analysis, EHR data    |
 | SciBERT        | A BERT-based model trained on scientific text.                  | [SciBERT](https://github.com/allenai/scibert)      | Scientific literature analysis      |
 | BlueBERT       | BERT-based model trained on PubMed abstracts and MIMIC-III clinical notes. | [BlueBERT](https://github.com/ncbi-nlp/bluebert) | Biomedical research, clinical notes |
-| BioMegatron    | A large-scale biomedical language model based on Megatron-LM.   | [BioMegatron](https://github.com/NVIDIA/NeMo/tree/main/examples/nlp/bio_megatron) | Biomedical text generation, NLP     |
 
 
 ### Vision Models
@@ -23,7 +22,6 @@ This repository curates AI/ML models (open-source & closed-source) for medical a
 | Model Name          | Description                                                         | Link                                               | Use Cases                        |
 | ------------------- | ------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------- |
 | Vision Transformer             | A deep learning model for classification & segmentation on imaging data .    | [Vision Transformer](https://github.com/google-research/vision_transformer) | Radiology, Pathology  |
-| DeepMind’s RetinaNet| A deep learning model for detecting diabetic retinopathy from retinal images. | [DeepMind’s RetinaNet](https://github.com/deepmind/deepmind-research) | Diabetic retinopathy detection   |
 | CheXbert             | Automatic Labelers and Expert Annotations.    | [CheXbert](https://github.com/stanfordmlgroup/CheXbert) |  radiology   |
 | UNet                | A convolutional neural network for biomedical image segmentation.   | [UNet](https://github.com/zhixuhao/unet)           | Biomedical image segmentation    |
 | nnU-Net             | A self-configuring method for biomedical image segmentation.        | [nnU-Net](https://github.com/MIC-DKFZ/nnUNet)      | Biomedical image segmentation    |
@@ -40,6 +38,11 @@ This repository curates AI/ML models (open-source & closed-source) for medical a
 | Model Name | Description                                          | Link                                               | Use Cases                        |
 | ---------- | ---------------------------------------------------- | -------------------------------------------------- | -------------------------------- |
 | COVID-Net  | A deep learning model for detecting COVID-19 from chest X-ray images. | [COVID-Net](https://github.com/lindawangg/COVID-Net) | COVID-19 detection, radiology    |
+
+### Frameworks
+|  Name          | Description                                                         | Link                                               |
+| ------------------- | ------------------------------------------------------------------- | -------------------------------------------------- |
+| MONAI  | An open-source, PyTorch-based framework with multiple models for end-to-end workflow. | [MONAI](https://monai.io/) | 
 
 ## Closed Source Medical Models
 
@@ -62,6 +65,11 @@ This repository curates AI/ML models (open-source & closed-source) for medical a
 | AI-Rad Companion        | AI-powered assistants for radiologists                           | [Siemens AI-Rad Companion](https://www.siemens-healthineers.com/medical-imaging-it/artificial-intelligence-rad-companion) | Radiology assistance, diagnostics                   |
 | AI Pathway Companion    | Clinical decision support system for personalized cancer care    | [Siemens AI Pathway Companion](https://www.siemens-healthineers.com/digital-health-solutions/ai-pathway-companion) | Personalized cancer treatment planning             |
 | Butterfly iQ+           | Handheld ultrasound device with integrated AI for diagnostics    | [Butterfly iQ+](https://www.butterflynetwork.com/)                                         | Point-of-care diagnostics, ultrasound imaging       |
+
+### Frameworks
+|  Name          | Description                                                         | Link                                               |
+| ------------------- | ------------------------------------------------------------------- | -------------------------------------------------- |
+| NVIDIA Clara | NVIDIA Clara for healthcare and life sciences, from imaging and instruments to genomics and drug discovery. | [NVIDIA Clara](https://www.nvidia.com/en-sg/clara/) | 
 
 ## References: 
 1. [Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
