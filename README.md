@@ -30,7 +30,7 @@ This repository curates AI/ML models (open-source & closed-source) for medical a
 
 | Model Name | Description                                          | Link                                               | Use Cases                        |
 | ---------- | ---------------------------------------------------- | -------------------------------------------------- | -------------------------------- |
-| MedNLI     | Natural language inference dataset for the clinical domain. | [MedNLI](https://github.com/johnsonrhanson/mednli) | Clinical decision support, NLP   |
+| MedNLI     | Natural language inference dataset for the clinical domain. | [MedNLI](https://github.com/jgc128/mednli) | Clinical decision support, NLP   |
 | Med3D      | Pre-trained 3D medical image analysis model.         | [Med3D](https://github.com/Tencent/MedicalNet)     | 3D medical image analysis        |
 
 ### Other Specialized Models
