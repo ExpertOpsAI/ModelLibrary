@@ -56,14 +56,13 @@ This repository curates AI/ML models (open-source & closed-source) for medical a
 
 | Model Name              | Description                                                     | Link                                                                                       | Use Cases                                           |
 | ----------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------- |
-| AI for Breast Cancer    | AI model for improving breast cancer screening accuracy         | [Google AI for Breast Cancer](https://ai.google/health/research/)                          | Breast cancer screening, diagnostics                |
-| AI for Diabetic Retinopathy | Detects diabetic retinopathy and diabetic macular edema       | [Google AI for Diabetic Retinopathy](https://ai.google/health/research/)                   | Diabetic retinopathy screening, ophthalmology       |
+| AI for Breast Cancer    | AI model for improving breast cancer screening accuracy         | [Google AI for Breast Cancer](https://health.google/caregivers/mammography/)                          | Breast cancer screening, diagnostics                |
+| AI for Diabetic Retinopathy | Detects diabetic retinopathy and diabetic macular edema       | [Google AI for Diabetic Retinopathy](https://health.google/caregivers/arda/)                   | Diabetic retinopathy screening, ophthalmology       |
 | Sepsis Prediction Algorithm | Early warning system for sepsis in ICU patients               | [Johns Hopkins Sepsis Prediction](https://www.hopkinsmedicine.org/)                        | Sepsis detection, ICU management                    |
 | COVID-19 Severity Prediction | AI models for predicting COVID-19 severity                  | [Johns Hopkins COVID-19 Prediction](https://www.hopkinsmedicine.org/)                      | COVID-19 patient management, severity prediction    |
 | InnerEye                | AI for medical imaging, including radiotherapy and image analysis | [Microsoft InnerEye](https://www.microsoft.com/en-us/research/project/medical-image-analysis/) | Radiotherapy planning, medical imaging analysis     |
 | PathAI                 | Models for pathology image analysis, including cancer detection  | [PathAI](https://www.pathai.com/)                                                          | Pathology diagnostics, cancer detection             |
-| AI-Rad Companion        | AI-powered assistants for radiologists                           | [Siemens AI-Rad Companion](https://www.siemens-healthineers.com/medical-imaging-it/artificial-intelligence-rad-companion) | Radiology assistance, diagnostics                   |
-| AI Pathway Companion    | Clinical decision support system for personalized cancer care    | [Siemens AI Pathway Companion](https://www.siemens-healthineers.com/digital-health-solutions/ai-pathway-companion) | Personalized cancer treatment planning             |
+| RAD AI       | AI-powered assistants for radiologists                           | [RAD AI](https://www.radai.com/) | Radiology assistance, diagnostics                   |
 | Butterfly iQ+           | Handheld ultrasound device with integrated AI for diagnostics    | [Butterfly iQ+](https://www.butterflynetwork.com/)                                         | Point-of-care diagnostics, ultrasound imaging       |
 
 ### Frameworks
