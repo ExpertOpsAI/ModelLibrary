@@ -1,5 +1,5 @@
 # Medical AI/ML Models Repository
-This repository curates open-source AI/ML models for medical applications, providing a centralized resource for collaboration and innovation in healthcare. Here are additional repositories you may find useful: [Datasets Repository](https://github.com/GlobalHealthAI/DataHub) | [Standards Repository](https://github.com/GlobalHealthAI/StandardsAndPractices)
+This repository curates AI/ML models (open-source & closed-source) for medical applications, providing a centralized resource for collaboration and innovation in healthcare. Here are additional repositories you may find useful: [Datasets Repository](https://github.com/GlobalHealthAI/DataHub) | [Standards Repository](https://github.com/GlobalHealthAI/StandardsAndPractices)
 
 ## Open Source Medical Models
 
@@ -7,7 +7,8 @@ This repository curates open-source AI/ML models for medical applications, provi
 
 | Model Name     | Description                                                     | Link                                               | Use Cases                           |
 | -------------- | --------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------- |
-| ClinicalBERT | A Collection of Open-Source Pretrained Large Language Models for Medical Domains. | [ClinicalBERT](https://huggingface.co/medicalai/ClinicalBERT) | Medical question-answering (QA) tasks |
+| ClinicalBERT | A Pretrained Model on a large corpus of 1.2B words of diverse diseases. | [ClinicalBERT](https://huggingface.co/medicalai/ClinicalBERT) | Medical question-answering (QA) tasks |
+| LLaVA-Med | A large language and vision model trained using a curriculum learning method for adapting LLaVA to the biomedical domain. | [microsoft/llava-med-v1.5-mistral-7b](https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b) | Medical question-answering (QA) tasks |
 | BioMistral-7B | A Collection of Open-Source Pretrained Large Language Models for Medical Domains. | [BioMistral](https://huggingface.co/BioMistral/BioMistral-7B) | Medical question-answering (QA) tasks |
 | BioGPT         | A generative pre-trained transformer model for biomedical text generation. | [BioGPT](https://github.com/microsoft/BioGPT) | Biomedical text generation, NLP     |
 | BioBERT        | A pre-trained biomedical language representation model.         | [BioBERT](https://github.com/dmis-lab/biobert)     | Biomedical text mining, NLP tasks   |
