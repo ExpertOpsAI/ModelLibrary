@@ -42,7 +42,9 @@ This repository curates AI/ML models (open-source & closed-source) for medical a
 ### Frameworks
 |  Name          | Description                                                         | Link                                               |
 | ------------------- | ------------------------------------------------------------------- | -------------------------------------------------- |
-| MONAI  | An open-source, PyTorch-based framework with multiple models for end-to-end workflow. | [MONAI](https://monai.io/) | 
+| MONAI  | PyTorch-based framework with multiple models for end-to-end workflow. | [MONAI](https://monai.io/) | 
+| PyHealth | Desinged for ML researchers and medical practitioners to build, test, and validate healthcare AI applications. | [PyHealth](https://pyhealth.readthedocs.io/en/latest/#) | 
+
 
 ## Closed Source Medical Models
 
